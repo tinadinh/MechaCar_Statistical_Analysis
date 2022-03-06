@@ -19,6 +19,7 @@ According to the summary output, the r-squared value is 0.71, which predicts tha
 ### The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 ##### Manufacturing Lot Summary
 Below is the summary statistics of all of the manufacturing lots. The mean is 1498.78 for this sample and the population mean was determined to be 1500.
+
 ![total_lot_summary](https://user-images.githubusercontent.com/33900637/156914750-c2feade7-7211-4613-bda6-2e558a6b30cd.png)
 
 ##### Summary by Manufacturing Lot Number
