@@ -31,19 +31,19 @@ While the overall variance, as shown in the Total Summary data above, is under 1
 
 ## T-Tests on Suspension Coils
 ### T-Test for all Lots
-<img width="509" alt="t_test_all" src="https://user-images.githubusercontent.com/33900637/156915878-52447fa2-03db-4c47-8719-9ee84e6064c7.png">
+![t_test_all](https://user-images.githubusercontent.com/33900637/156932005-cd16a412-8474-4194-9880-12fedd3daa65.png)
 A review of the results of the T-Test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.0603) for us to reject the null hypothesis.
 
 ### T-Test for Lot 1
-<img width="549" alt="lot_1" src="https://user-images.githubusercontent.com/33900637/156915888-343a12f8-0ed0-4a18-a579-02646f6794d5.png">
+![lot_1](https://user-images.githubusercontent.com/33900637/156932017-0b866cc0-5084-4d90-b639-6f683f17ea01.png)
 A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough for us to reject the null hypothesis.
 
 ### T-Test for Lot 2
-<img width="551" alt="lot_2" src="https://user-images.githubusercontent.com/33900637/156915899-52ab39ba-28c6-4127-9c1b-c34762debe36.png">
+![lot_2](https://user-images.githubusercontent.com/33900637/156932028-73a82a1d-43bc-4b0d-9627-86866e496740.png)
 A review of the results of the T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low enough for us to reject the null hypothesis.
 
 ### T-Test for Lot 3
-<img width="548" alt="lot_3" src="https://user-images.githubusercontent.com/33900637/156915904-3d5f7a1a-fd02-4be4-bc39-e1629bb034c7.png">
+![lot_3](https://user-images.githubusercontent.com/33900637/156932035-516f02bb-1f8d-46a3-8b89-d20b70766259.png)
 A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough for us to reject the null hypothesis. This lot may be need to be discarded, or at least more closely evaluated.
 
 ## Study Design: MechaCar vs Competition
