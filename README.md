@@ -31,19 +31,19 @@ While the overall variance, as shown in the Total Summary data above, is under 1
 
 ## T-Tests on Suspension Coils
 ### T-Test for all Lots
-<img width="512" alt="t_test_all" src="https://user-images.githubusercontent.com/33900637/156915280-1a416468-4684-4a78-a716-ba0c1a9960fd.png">
+<img width="509" alt="t_test_all" src="https://user-images.githubusercontent.com/33900637/156915878-52447fa2-03db-4c47-8719-9ee84e6064c7.png">
 A review of the results of the T-Test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.0603) for us to reject the null hypothesis.
 
 ### T-Test for Lot 1
-<img width="556" alt="lot_1" src="https://user-images.githubusercontent.com/33900637/156915286-81da94a4-e5d7-48c0-9f43-a9e3571eb0af.png">
+<img width="549" alt="lot_1" src="https://user-images.githubusercontent.com/33900637/156915888-343a12f8-0ed0-4a18-a579-02646f6794d5.png">
 A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough for us to reject the null hypothesis.
 
 ### T-Test for Lot 2
-<img width="557" alt="lot_2" src="https://user-images.githubusercontent.com/33900637/156915289-8b3605df-1d23-4386-aa53-bda02ef84804.png">
+<img width="551" alt="lot_2" src="https://user-images.githubusercontent.com/33900637/156915899-52ab39ba-28c6-4127-9c1b-c34762debe36.png">
 A review of the results of the T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low enough for us to reject the null hypothesis.
 
 ### T-Test for Lot 3
-<img width="556" alt="lot_3" src="https://user-images.githubusercontent.com/33900637/156915295-57375a2c-1633-441e-afc9-f5d0ab36f366.png">
+<img width="548" alt="lot_3" src="https://user-images.githubusercontent.com/33900637/156915904-3d5f7a1a-fd02-4be4-bc39-e1629bb034c7.png">
 A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough for us to reject the null hypothesis. This lot may be need to be discarded, or at least more closely evaluated.
 
 ## Study Design: MechaCar vs Competition
